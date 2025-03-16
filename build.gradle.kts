@@ -19,4 +19,5 @@ tasks.test {
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
     testImplementation("com.natpryce:hamkrest:1.8.0.1")
+    testImplementation("org.mockito:mockito-all:1.8.4")
 }
